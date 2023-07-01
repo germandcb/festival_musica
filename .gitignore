@@ -1,0 +1,6 @@
+# Ignora las siguientes carpetas y archivos
+node_modules
+src
+gulpfile.js
+package-lock.json
+package.json
